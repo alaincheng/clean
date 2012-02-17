@@ -5,9 +5,7 @@
 ?>
 
 <?php get_header(); ?>
-<div class="container_12">
-	<div class="main-continer continer-left">
-		<div class="grid_8">
+
 		<?php if (have_posts()) : while (have_posts()) : the_post();?>
 			<div class="post">
 				<h1 id="post-<?php the_ID(); ?>">
@@ -19,10 +17,4 @@
 				</div>
 			</div>
 			<?php endwhile; endif; ?>
-		</div>
-	</div>
-	<?php get_sidebar(); ?>
-	<div class="clear"></div>
-</div>
-</div>
 <?php get_footer(); ?>

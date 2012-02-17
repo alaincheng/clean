@@ -82,7 +82,7 @@ a:visited {
 */
 
 .header {
-    background: url('../images/background.jpg');
+    background: url('/wp-content/themes/clean/images/background.jpg');
 }
 .navigation {
     float: right;
@@ -102,10 +102,10 @@ a:visited {
     SLIDERS
 */
 .slider-bg {
-    background: url('../images/slider-shadow.png') no-repeat bottom center;
+    background: url('/wp-content/themes/clean/images/slider-shadow.png') no-repeat bottom center;
 }
 .slider-bg-ra {
-    background: url('../images/slider-shadow-ra.png') no-repeat bottom center;
+    background: url('/wp-content/themes/clean/images/slider-shadow-ra.png') no-repeat bottom center;
 }
 /*
     JCYCLE SLIDESHOW AND NO SLIDER HOME PAGE
@@ -188,7 +188,7 @@ position: relative;
     padding-left: 10px;
 }
 .jcycle-pager a, .nivo-controlNav a.nivo-control {
-    background: url(../images/slider-bg.png) no-repeat center center transparent;
+    background: url(/wp-content/themes/clean/images/slider-bg.png) no-repeat center center transparent;
     display:block;
     float:left;
     height:14px;
@@ -198,7 +198,7 @@ position: relative;
     cursor: pointer;
 }
 #jcycle-pager .activeSlide, .nivo-controlNav a.active {
-    background: url(../images/slider-bg-active.png) no-repeat center center transparent;
+    background: url(/wp-content/themes/clean/images/slider-bg-active.png) no-repeat center center transparent;
     display:block;
     float:left;
     height:14px;
@@ -225,14 +225,14 @@ position: relative;
     z-index: 99;
 }
 .nivo-nextNav {
-    background: url("../images/nivo-next.png") no-repeat scroll center center transparent;
+    background: url("/wp-content/themes/clean/images/nivo-next.png") no-repeat scroll center center transparent;
     height: 40px;
     text-indent: -99999px;
     width: 40px;
     cursor: pointer;
 }
 .nivo-prevNav {
-    background: url("../images/nivo-prew.png") no-repeat scroll center center transparent;
+    background: url("/wp-content/themes/clean/images/nivo-prew.png") no-repeat scroll center center transparent;
     height: 40px;
     text-indent: -99999px;
     width: 40px;
@@ -242,10 +242,10 @@ position: relative;
     ROUND ABOUT SLIDESHOW
 */
 .for-ra {
-    background: url('../images/top_row_bg_ra.jpg') no-repeat top center;
+    background: url('/wp-content/themes/clean/images/top_row_bg_ra.jpg') no-repeat top center;
 }
 .header-trans {
-    background: url('../images/header-bg-trans.png') no-repeat top center #ff00c4;
+    background: url('/wp-content/themes/clean/images/header-bg-trans.png') no-repeat top center #ff00c4;
 }
 .roundabout-slideshow-div {
     
@@ -290,7 +290,7 @@ ul#roundabout {
     width:100%;
 }
 .ra-desc {
-    background: url("../images/kw-desc-bg.png") transparent;
+    background: url("/wp-content/themes/clean/images/kw-desc-bg.png") transparent;
     position: absolute;
     bottom: 0px;
     width: 510px;
@@ -307,7 +307,7 @@ ul#roundabout {
     KWICK SLIDESHOW
 */
 .for-kwick {
-    background: url('../images/top_row_bg.jpg') no-repeat top center;
+    background: url('/wp-content/themes/clean/images/top_row_bg.jpg') no-repeat top center;
 }
 .kwick-slideshow-div {
     height: 410px;
@@ -345,7 +345,7 @@ ul#roundabout {
 
 }
 .kw-desc {
-    background: url("../images/kw-desc-bg.png") transparent;
+    background: url("/wp-content/themes/clean/images/kw-desc-bg.png") transparent;
     position: absolute;
     bottom: 0px;
     width: 940px;
@@ -367,7 +367,7 @@ ul#roundabout {
     z-index: 100;
     position: absolute;
     top: 0;
-    background: url("../images/kw_shadow.png") repeat-y right 0 transparent;
+    background: url("/wp-content/themes/clean/images/kw_shadow.png") repeat-y right 0 transparent;
 }
 
 /*
@@ -375,7 +375,7 @@ ul#roundabout {
 */
 
 .top-home {
-    background: url('../images/top-text-background.png') bottom center no-repeat #FFF;
+    background: url('/wp-content/themes/clean/images/top-text-background.png') bottom center no-repeat #FFF;
 }
 .top-single {}
 .teaser {
@@ -386,7 +386,7 @@ ul#roundabout {
 }
 
 a.teaser-button {
-    background: url('../images/teaser-button-background.png') center center no-repeat transparent;
+    background: url('/wp-content/themes/clean/images/teaser-button-background.png') center center no-repeat transparent;
     cursor: pointer;
     display: block;
     padding: 12px 10px;
@@ -456,7 +456,7 @@ h4 a.button  {
     MAIN
 */
 .main {
-    background: url('../images/bot-text-background.png') top center no-repeat transparent;
+    background: url('/wp-content/themes/clean/images/bot-text-background.png') top center no-repeat transparent;
     padding: 30px 0;
 }
 .main-module {
@@ -545,17 +545,17 @@ ul.pi-pager li {
 ul.pi-pager li a {
     width: 11px;
     height: 10px;
-    background: url('../images/product-page-bg.png') no-repeat top left transparent;
+    background: url('/wp-content/themes/clean/images/product-page-bg.png') no-repeat top left transparent;
     text-indent: -5000px;
     margin-right: 3px;
     display: block;
 }
 ul.pi-pager li.activeSlide a {
-    background: url('../images/product-page-ac.png') no-repeat top left transparent;
+    background: url('/wp-content/themes/clean/images/product-page-ac.png') no-repeat top left transparent;
 }
 a.readmore {
     width: 102px;
-    background: url('../images/readmore.gif') no-repeat left top transparent;
+    background: url('/wp-content/themes/clean/images/readmore.gif') no-repeat left top transparent;
     text-transform: uppercase;
     display: block;
     padding: 5px;
@@ -1026,11 +1026,11 @@ ul.footer-menu-list li a:hover {
     float: left;
 }
 .sidebar-top {
-    background: url("../images/sidebar-bg2.png") no-repeat scroll right top transparent;
+    background: url("/wp-content/themes/clean/images/sidebar-bg2.png") no-repeat scroll right top transparent;
     padding-right: 40px;
 }
 .sidebar-bottom {
-    background: url("../images/sidebar-bg1.png") no-repeat scroll right bottom transparent;
+    background: url("/wp-content/themes/clean/images/sidebar-bg1.png") no-repeat scroll right bottom transparent;
     padding-right: 40px;
     clear: both;
     height: 50px;
@@ -1040,12 +1040,12 @@ ul.footer-menu-list li a:hover {
     margin-top: -40px;
 }
 .sidebar-right .sidebar-top {
-    background: url("../images/sidebar-r-bg2.png") no-repeat scroll left top transparent;
+    background: url("/wp-content/themes/clean/images/sidebar-r-bg2.png") no-repeat scroll left top transparent;
     padding-right: 0px;
     padding-left: 40px;
 }
 .sidebar-right .sidebar-bottom {
-    background: url("../images/sidebar-r-bg1.png") no-repeat scroll left bottom transparent;
+    background: url("/wp-content/themes/clean/images/sidebar-r-bg1.png") no-repeat scroll left bottom transparent;
     padding-right: 0px;
     padding-left: 40px;
 }
@@ -1193,13 +1193,13 @@ ul.ar-pager li {
 ul.ar-pager li a {
     width: 11px;
     height: 10px;
-    background: url('../images/product-page-bg.png') no-repeat top left transparent;
+    background: url('/wp-content/themes/clean/images/product-page-bg.png') no-repeat top left transparent;
     text-indent: -5000px;
     margin-right: 3px;
     display: block;
 }
 ul.ar-pager li.activeSlide a {
-    background: url('../images/product-page-ac.png') no-repeat top left transparent;
+    background: url('/wp-content/themes/clean/images/product-page-ac.png') no-repeat top left transparent;
 }
 .frame_right ul.ar-pager, .article-image ul.ar-pager {
     bottom: 16px;
@@ -1423,12 +1423,12 @@ a.imgSmall, a.imgMedium, a.imgLarge, a.imgTall { cursor: pointer; }
     height: 100%;
     width: 100%;
     position: absolute;
-    background: transparent url(../images/imgOverlay-Zoom.png) no-repeat center center;
+    background: transparent url(/wp-content/themes/clean/images/imgOverlay-Zoom.png) no-repeat center center;
 }
 .imgOverlay.symbolPlay	{
-    background: url(../images/imgOverlay-Play.png) no-repeat center center; }
+    background: url(/wp-content/themes/clean/images/imgOverlay-Play.png) no-repeat center center; }
 .imgOverlay.symbolDoc	{
-    background: url(../images/imgOverlay-Post.png) no-repeat center center; }
+    background: url(/wp-content/themes/clean/images/imgOverlay-Post.png) no-repeat center center; }
 
 
 /*
@@ -1617,7 +1617,7 @@ ul.header-services li {
     font-style: italic;
     padding: 20px;
     padding-right: 0px;
-    background: url('../images/testiominals-bg.png') no-repeat 0px 10px scroll;
+    background: url('/wp-content/themes/clean/images/testiominals-bg.png') no-repeat 0px 10px scroll;
 }
 .team-member-text {
     padding: 20px;
@@ -1671,7 +1671,7 @@ ul.header-services li {
     padding: 30px 0;
 }
 .preload {
-    background: url(../images/loading.gif) 50% 50% no-repeat #FFFFFF;
+    background: url(/wp-content/themes/clean/images/loading.gif) 50% 50% no-repeat #FFFFFF;
     display: block;
     width: 100%;
     height: 100%;
@@ -1684,14 +1684,14 @@ ul.header-services li {
     float: right;
 }
 .hr-sidebar {
-    background: url('../images/hr-sidebar-bg.png') no-repeat top center;
+    background: url('/wp-content/themes/clean/images/hr-sidebar-bg.png') no-repeat top center;
     height: 60px;
     clear: both;
     border: none;
     width: 100%;
 }
 .hr-fullwidth {
-    background: url('../images/hrFullWidth.jpg') no-repeat center bottom;
+    background: url('/wp-content/themes/clean/images/hrFullWidth.jpg') no-repeat center bottom;
     height: 60px;
     clear: both;
     border: none;
@@ -1729,7 +1729,7 @@ ul.header-services li {
 .quote-text {
     padding-left: 50px !important;
     font-style: italic;
-    background: url('../images/testiominals-bg.png') no-repeat left 12px;
+    background: url('/wp-content/themes/clean/images/testiominals-bg.png') no-repeat left 12px;
 }
 .image-default-size {
     width: 200px;
@@ -2027,7 +2027,7 @@ p.white, .white h5 {
     border-radius:5px;
 }
 .toggle_title {
-    background:url("../images/toggle_buttons.png") no-repeat scroll right 6px transparent;
+    background:url("/wp-content/themes/clean/images/toggle_buttons.png") no-repeat scroll right 6px transparent;
     cursor:pointer;
     font-size:18px;
     line-height:18px;
@@ -2038,7 +2038,7 @@ p.white, .white h5 {
 .toggle-styled .toggle_title {
     border-bottom: none;
     padding: 10px !important;
-    background:url("../images/toggle_buttons.png") no-repeat scroll 585px 6px transparent;
+    background:url("/wp-content/themes/clean/images/toggle_buttons.png") no-repeat scroll 585px 6px transparent;
 }
 .toggle-styled h5, .toggle h5 {
     margin-bottom: 0px;
@@ -2060,10 +2060,10 @@ p.white, .white h5 {
     padding: 0px 10px;
 }
 .toggle_active {
-    background:url("../images/toggle_buttons.png") no-repeat scroll right -24px transparent;
+    background:url("/wp-content/themes/clean/images/toggle_buttons.png") no-repeat scroll right -24px transparent;
 }
 .toggle-styled .toggle_active {
-    background:url("../images/toggle_buttons.png") no-repeat scroll 585px -24px transparent;
+    background:url("/wp-content/themes/clean/images/toggle_buttons.png") no-repeat scroll 585px -24px transparent;
 }
 
 /****************************TABLE*********************/
@@ -2113,371 +2113,371 @@ p.white, .white h5 {
     border-bottom: 1px solid #e9e9e9;
 }
 ul.arrowdown li {
-    background: url('../images/list-icons/arrow_down_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_down_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowdown1 li {
-    background: url('../images/list-icons/arrow_down_alt1_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_down_alt1_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowdown2 li {
-    background: url('../images/list-icons/arrow_down_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_down_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowleft li {
-    background: url('../images/list-icons/arrow_left_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_left_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowleft1 li {
-    background: url('../images/list-icons/arrow_left_alt1_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_left_alt1_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowleft2 li {
-    background: url('../images/list-icons/arrow_left_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_left_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowright li {
-    background: url('../images/list-icons/arrow_right_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_right_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowright1 li {
-    background: url('../images/list-icons/arrow_right_alt1_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_right_alt1_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowright2 li {
-    background: url('../images/list-icons/arrow_right_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_right_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowup li {
-    background: url('../images/list-icons/arrow_up_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_up_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowup1 li {
-    background: url('../images/list-icons/arrow_up_alt1_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_up_alt1_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.arrowup2 li {
-    background: url('../images/list-icons/arrow_up_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/arrow_up_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.article-icon li {
-    background: url('../images/list-icons/article_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/article_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.at li {
-    background: url('../images/list-icons/at_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/at_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.bolt li {
-    background: url('../images/list-icons/bolt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/bolt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.book li {
-    background: url('../images/list-icons/book_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/book_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.book1 li {
-    background: url('../images/list-icons/book_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/book_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.box-icon li {
-    background: url('../images/list-icons/box_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/box_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.calendar li {
-    background: url('../images/list-icons/calendar_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/calendar_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.calendar1 li {
-    background: url('../images/list-icons/calendar_alt_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/calendar_alt_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.calendar2 li {
-    background: url('../images/list-icons/calendar_alt_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/calendar_alt_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.cd li {
-    background: url('../images/list-icons/cd_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/cd_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.chat li {
-    background: url('../images/list-icons/chat_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/chat_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.chat1 li {
-    background: url('../images/list-icons/chat_alt_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/chat_alt_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.chat2 li {
-    background: url('../images/list-icons/chat_alt_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/chat_alt_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.check li {
-    background: url('../images/list-icons/check_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/check_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.clock li {
-    background: url('../images/list-icons/clock_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/clock_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.cog1 li {
-    background: url('../images/list-icons/cog_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/cog_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.cog2 li {
-    background: url('../images/list-icons/cog_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/cog_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.comment1 li {
-    background: url('../images/list-icons/comment_alt1_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/comment_alt1_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.comment2 li {
-    background: url('../images/list-icons/comment_alt1_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/comment_alt1_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.compass li {
-    background: url('../images/list-icons/compass_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/compass_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.cursor li {
-    background: url('../images/list-icons/cursor_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/cursor_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.denied1 li {
-    background: url('../images/list-icons/denied_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/denied_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.denied2 li {
-    background: url('../images/list-icons/denied_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/denied_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.dial li {
-    background: url('../images/list-icons/dial_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/dial_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.document1 li {
-    background: url('../images/list-icons/document_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/document_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.document2 li {
-    background: url('../images/list-icons/document_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/document_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.eject li {
-    background: url('../images/list-icons/eject_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/eject_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.eaualizer li {
-    background: url('../images/list-icons/equalizer_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/equalizer_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.eyedropper li {
-    background: url('../images/list-icons/eyedropper_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/eyedropper_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.first li {
-    background: url('../images/list-icons/first_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/first_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.folder1 li {
-    background: url('../images/list-icons/folder_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/folder_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.folder2 li {
-    background: url('../images/list-icons/folder_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/folder_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.fullscreen1 li {
-    background: url('../images/list-icons/fullscreen_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/fullscreen_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.fullscreen2 li {
-    background: url('../images/list-icons/fullscreen_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/fullscreen_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.fullscreen3 li {
-    background: url('../images/list-icons/fullscreen_exit_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/fullscreen_exit_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.fullscreen4 li {
-    background: url('../images/list-icons/fullscreen_exit_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/fullscreen_exit_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.home li {
-    background: url('../images/list-icons/home_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/home_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.image-icon li {
-    background: url('../images/list-icons/image_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/image_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.key1 li {
-    background: url('../images/list-icons/key_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/key_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.key2 li {
-    background: url('../images/list-icons/key_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/key_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.last-icon li {
-    background: url('../images/list-icons/last_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/last_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.left-icon1 li {
-    background: url('../images/list-icons/left_quote_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/left_quote_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.left-icon2 li {
-    background: url('../images/list-icons/left_quote_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/left_quote_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.link-icon li {
-    background: url('../images/list-icons/link_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/link_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.loop li {
-    background: url('../images/list-icons/loop_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/loop_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.minus li {
-    background: url('../images/list-icons/minus_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/minus_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.map2 li {
-    background: url('../images/list-icons/map_pin_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/map_pin_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.map1 li {
-    background: url('../images/list-icons/map_pin_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/map_pin_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.moon1 li {
-    background: url('../images/list-icons/moon_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/moon_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.moon2 li {
-    background: url('../images/list-icons/moon_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/moon_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.move1 li {
-    background: url('../images/list-icons/move_horizontal_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/move_horizontal_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.move2 li {
-    background: url('../images/list-icons/move_vertical_alt2_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/move_vertical_alt2_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.move3 li {
-    background: url('../images/list-icons/move_alt1_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/move_alt1_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.move4 li {
-    background: url('../images/list-icons/move_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/move_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.newwindow li {
-    background: url('../images/list-icons/new_window_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/new_window_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.movie li {
-    background: url('../images/list-icons/movie_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/movie_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.pen1 li {
-    background: url('../images/list-icons/pen_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/pen_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.pen2 li {
-    background: url('../images/list-icons/pen_alt_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/pen_alt_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.pen3 li {
-    background: url('../images/list-icons/pen_alt_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/pen_alt_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.pin li {
-    background: url('../images/list-icons/pin_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/pin_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.play li {
-    background: url('../images/list-icons/play_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/play_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.plus1 li {
-    background: url('../images/list-icons/plus_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/plus_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.plus2 li {
-    background: url('../images/list-icons/plus_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/plus_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.readmore-icon li {
-    background: url('../images/list-icons/read_more_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/read_more_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.rightquote1 li {
-    background: url('../images/list-icons/right_quote_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/right_quote_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.rightquote2 li {
-    background: url('../images/list-icons/right_quote_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/right_quote_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.rss1 li {
-    background: url('../images/list-icons/rss_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/rss_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.rss2 li {
-    background: url('../images/list-icons/rss_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/rss_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.spin li {
-    background: url('../images/list-icons/spin_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/spin_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.star li {
-    background: url('../images/list-icons/star_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/star_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.stop li {
-    background: url('../images/list-icons/stop_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/stop_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.sun li {
-    background: url('../images/list-icons/sun_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/sun_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.tag1 li {
-    background: url('../images/list-icons/tag_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/tag_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.tag2 li {
-    background: url('../images/list-icons/tag_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/tag_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.trash1 li {
-    background: url('../images/list-icons/trash_fill_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/trash_fill_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.trash2 li {
-    background: url('../images/list-icons/trash_stroke_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/trash_stroke_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.undo li {
-    background: url('../images/list-icons/undo_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/undo_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.x li {
-    background: url('../images/list-icons/x_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/x_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.magnifying1 li {
-    background: url('../images/list-icons/magnifying_glass_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/magnifying_glass_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 ul.magnifying2 li {
-    background: url('../images/list-icons/magnifying_glass_alt_12x12.png') no-repeat left center;
+    background: url('/wp-content/themes/clean/images/list-icons/magnifying_glass_alt_12x12.png') no-repeat left center;
     padding-left: 20px;
 }
 /*****************SIDEBAR COLUMNS************/
@@ -2518,41 +2518,41 @@ ul.magnifying2 li {
     border-radius: 5px;
 }
 .head-pat1 {
-    background: url('../images/background.jpg');
+    background: url('/wp-content/themes/clean/images/background.jpg');
 }
 .head-pat2 {
-    background: url('../images/background2.jpg');
+    background: url('/wp-content/themes/clean/images/background2.jpg');
 }
 .head-pat3 {
-    background: url('../images/background3.jpg');
+    background: url('/wp-content/themes/clean/images/background3.jpg');
 }
 .head-pat4 {
-    background: url('../images/background4.jpg');
+    background: url('/wp-content/themes/clean/images/background4.jpg');
 }
 .head-pat5 {
-    background: url('../images/background5.jpg');
+    background: url('/wp-content/themes/clean/images/background5.jpg');
 }
 .head-pat6 {
-    background: url('../images/pat6.jpg');
+    background: url('/wp-content/themes/clean/images/pat6.jpg');
 }
 .head-pat7 {
-    background: url('../images/pat7.jpg');
+    background: url('/wp-content/themes/clean/images/pat7.jpg');
 }
 .head-pat8 {
-    background: url('../images/pat8.jpg');
+    background: url('/wp-content/themes/clean/images/pat8.jpg');
 }
 .head-pat9 {
-    background: url('../images/pat9.jpg');
+    background: url('/wp-content/themes/clean/images/pat9.jpg');
 }
 .head-pat10 {
-    background: url('../images/pat10.jpg');
+    background: url('/wp-content/themes/clean/images/pat10.jpg');
 }
 .head-pat11 {
-    background: url('../images/pat11.jpg');
+    background: url('/wp-content/themes/clean/images/pat11.jpg');
 }
 .head-pat12 {
-    background: url('../images/pat12.jpg');
+    background: url('/wp-content/themes/clean/images/pat12.jpg');
 }
 .colors {
-    background: url('../images/colors.jpg')
+    background: url('/wp-content/themes/clean/images/colors.jpg')
 }

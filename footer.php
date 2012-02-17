@@ -11,6 +11,15 @@
  * @since Twenty Ten 1.0
  */
 ?>
+</div>
+</div>
+<?php  if(!is_home()){
+	get_sidebar();
+
+}?>
+<div class="clear"></div>
+</div>
+</div>
 <!-- END FOOTER -->
 <!-- START FOOTER-BOTTOM -->
 <div class="footer-bottom head-pat6">
@@ -55,47 +64,47 @@
 				<ul class="social-icons-list">
 					<li><a href="http://flickr.com"><img class="tiptip"
 							title="Visit my Flickr"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/flickr.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/flickr.png"
 							alt="" /> </a></li>
 					<li><a href="http://facebook.com/themeton"><img class="tiptip"
 							title="Visit my Facebook"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/facebook.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/facebook.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.youtube.com/olziinaa"><img class="tiptip"
 							title="Visit my Youtube"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/youtube.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/youtube.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.whatisrss.com/"><img class="tiptip"
 							title="Subscribe my RSS FEED"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/feed.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/feed.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.linkedin.com"><img class="tiptip"
 							title="Visit my Linkedin"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/linkedin.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/linkedin.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.last.fm"><img class="tiptip"
 							title="Visit my LastFM"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/lastfm.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/lastfm.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.myspace.com"><img class="tiptip"
 							title="Visit my My Space"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/myspace.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/myspace.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.mixx.com"><img class="tiptip"
 							title="Visit my Mixx"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/mixx.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/mixx.png"
 							alt="" /> </a></li>
 					<li><a href="http://twitter.com/themeton"><img class="tiptip"
 							title="Visit my Twitter"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/twitter.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/twitter.png"
 							alt="" /> </a></li>
 					<li><a href="http://www.tumblr.com/"><img class="tiptip"
 							title="Visit my Thmblr"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/tumblr.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/tumblr.png"
 							alt="" /> </a></li>
 					<li><a href="https://posterous.com/"><img class="tiptip"
 							title="Visit my Posterous"
-							src="/wp-content/themes/clean_theme/images/content/footer-social-icons/posterous.png"
+							src="/wp-content/themes/clean/images/content/footer-social-icons/posterous.png"
 							alt="" /> </a></li>
 				</ul>
 
